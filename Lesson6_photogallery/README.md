@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 3, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Fabian Jones)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment introduced me to many things. It builds off of previous code that was used in the lessons before.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Thd introduction to Dom. It helped a lot by learning what it was, that way I am familiarized with it while doing the assignment.)
+2. (Learning about Dom methods, such as properties and methods and practicing using them on W3 schools.)
+3. (The use of nodes, which is used in the html Dom. Again w3 schools helped out alot with practice. Learning this made working on the function preview section on the photo.js more easier.)
