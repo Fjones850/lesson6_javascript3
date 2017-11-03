@@ -13,8 +13,7 @@ Web Application Development
 (This assignment introduced me to many things. It builds off of previous code that was used in the lessons before.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://fjones850.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (Thd introduction to Dom. It helped a lot by learning what it was, that way I am familiarized with it while doing the assignment.)
